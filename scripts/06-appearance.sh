@@ -7,7 +7,7 @@ sudo apt install papirus-icon-theme -y
 sudo apt install papirus-folders -y
 sudo apt install libreoffice-style-papirus -y
 
-# Libreoffice Theme
+# Papirus LibreOffice Theme
 
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-libreoffice-theme/master/install-papirus-root.sh | sh
 
