@@ -1,1 +1,1 @@
-My Scripts Pack for Linux Mint Pós Install
+My script pack for linux mint posinstall
