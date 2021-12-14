@@ -10,9 +10,7 @@ sudo apt install libreoffice-style-papirus -y
 # Local Gtk Theme
 
 cd -
-cd gtk-themes
-cd icons
+cd posinstall-linuxmint/gtk-themes/icons/
 sudo tar xvzf capitaine-cursor-dark-r4.tar.gz -C /usr/share/icons/
 cd -
-cd -
-cd scripts
+cd posinstall-linuxmint/scripts/
