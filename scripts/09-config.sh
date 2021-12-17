@@ -7,7 +7,7 @@ mkdir $HOME/Downloads/ClipGrab
 mkdir $HOME/Downloads/4kstogram
 mkdir $HOME/Downloads/4kvideodownloader
 mkdir $HOME/Downloads/Warpinator
-mkdir $HOME/Downloads/Telegram Desktop
+mkdir $HOME/Downloads/Telegram
 mkdir $HOME/Pictures/Screenshots
 
 # All
