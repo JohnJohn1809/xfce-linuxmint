@@ -8,6 +8,7 @@ mkdir $HOME/Downloads/4kstogram
 mkdir $HOME/Downloads/4kvideodownloader
 mkdir $HOME/Downloads/Warpinator
 mkdir $HOME/Downloads/Telegram
+mkdir $HOME/Downloads/Random
 mkdir $HOME/Pictures/Screenshots
 
 # All
