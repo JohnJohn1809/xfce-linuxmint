@@ -8,7 +8,7 @@ wget -c 'https://www.dropbox.com/sh/pbfc4074oj8q53d/AAAZaOs5ExFwis-D208yD20Ha?dl
 
 # Extracting
 
-mv AABKge-eUnJJYhzCl7xSqqbma?dl=0 applications.zip
+mv AAAZaOs5ExFwis-D208yD20Ha?dl=0 applications.zip
 
 mkdir applications
 
@@ -57,7 +57,7 @@ rm -rf icons
 
 # Shortcuts
 
-cp -R $HOME/applications/shortcuts/linux-mint/* "$HOME/.local/share/applications/"
+cp -R $HOME/applications/shortcuts/* "$HOME/.local/share/applications/"
 
 rm -rf shortcuts
 
