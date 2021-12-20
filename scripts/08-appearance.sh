@@ -25,7 +25,7 @@ wget -c 'https://www.dropbox.com/sh/dlp00bm655omkyf/AADexsVnIBNA-daaLw-zkmb2a?dl
 
 mv AADexsVnIBNA-daaLw-zkmb2a?dl=0 gtk-themes.zip
 
-mkdir gtk-themes
+mkdir $HOME/gtk-themes/
 
 unzip gtk-themes.zip -d $HOME/gtk-themes/
 
