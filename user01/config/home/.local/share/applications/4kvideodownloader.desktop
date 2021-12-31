@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=4kvideodownloader
+Exec=/home/john/applications/other/4kvideodownloader/4kvideodownloader.sh
+Icon=4kvideodownloader
+Type=Application
+Comment=Downloader for YouTube Videos
+Terminal=false
+Categories=Network;Utility;

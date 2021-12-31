@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=4kstogram
+Exec=/home/john/applications/other/4kstogram/4kstogram.sh
+Icon=4kstogram
+Type=Application
+Comment=Downloader for Instagram Photos and Videos
+Terminal=false
+Categories=Network;Utility;

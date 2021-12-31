@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ClipGrab
+Exec=/home/john/applications/appimage/clipgrab/clipgrab.appimage
+Icon=clipgrab
+Type=Application
+Comment=Downloader for YouTube Videos
+Terminal=false
+Categories=Network;Utility;
