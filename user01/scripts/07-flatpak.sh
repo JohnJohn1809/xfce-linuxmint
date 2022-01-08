@@ -16,6 +16,8 @@ flatpak install org.gnome.gitlab.somas.Apostrophe.Plugin.TexLive
 
 # Other
 
-flatpak install flathub com.rafaelmardojai.Blanket
-
 flatpak install flathub net.ankiweb.Anki
+
+flatpak install flathub io.github.lainsce.Khronos
+
+flatpak install flathub com.rafaelmardojai.Blanket
