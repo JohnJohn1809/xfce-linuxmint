@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Audacity
+Exec=/home/johni3/applications/appimage/audacity/audacity.appimage
+Icon=audacity
+Type=Application
+Comment=Sound Recorder
+Terminal=false
+Categories=Utility;
