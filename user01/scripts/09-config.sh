@@ -15,6 +15,10 @@ mkdir $HOME/Pictures/Screenshots
 
 cp -R $HOME/posinstall-linuxmint/user01/config/home/* "$HOME/"
 
+cp -R $HOME/posinstall-linuxmint/user01/config/home/.local/share/Cockatrice/Cockatrice/* "$HOME/.local/share/Cockatrice/Cockatrice/"
+
+cp -R $HOME/posinstall-linuxmint/user01/config/home/.local/share/applications/* "$HOME/.local/share/applications/"
+
 sudo cp -R $HOME/posinstall-linuxmint/user01/config/etc/* "/etc/"
 
 cd $HOME/scripts/
