@@ -23,3 +23,5 @@ flatpak install flathub com.github.gi_lom.dialect
 flatpak install flathub io.github.lainsce.Khronos
 
 flatpak install flathub com.rafaelmardojai.Blanket
+
+flatpak install flathub com.github.robertsanseries.ciano
