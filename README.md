@@ -4,7 +4,7 @@ Esses scripts são para facilitar meu pós instalação do mint com interface gr
 
 ### Vídeos e Links Úteis que Me Ajudaram
 
-### Slow Boot
+#### Slow Boot
 
 Caso você esteja com um boot lento veja esse video:
 
