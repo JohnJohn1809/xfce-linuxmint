@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+!/usr/bin/env bash
 
 # Download
 
@@ -8,7 +8,7 @@ wget -c 'https://www.dropbox.com/sh/pbfc4074oj8q53d/AAAZaOs5ExFwis-D208yD20Ha?dl
 
 # Extracting
 
-mv AAAZaOs5ExFwis-D208yD20Ha?d applications.zip
+mv AAAZaOs5ExFwis-D208yD20Ha?dl=0 applications.zip
 
 mkdir $HOME/applications/
 
