@@ -24,6 +24,26 @@ cp -R $HOME/posinstall-linuxmint/user01/config/home/.local/share/applications/* 
 
 sudo cp -R $HOME/posinstall-linuxmint/user01/config/etc/default/* "/etc/default/"
 
+# Make AppImage Executable
+
+cd $HOME/applications/appimage/audacity/
+
+chmod +x audacity.appimage
+
+cd $HOME/applications/appimage/clipgrab/
+
+chmod +x clipgrab.appimage
+
+cd $HOME/applications/appimage/keepassxc/
+
+chmod +x keepassxc.appimage
+
+# Make Shortcut Executable
+
+cd $HOME/.local/share/applications/
+
+chmod +x 4kstogram.desktop 4kvideodownloader.desktop audacity.desktop clipgrab.desktop keepassxc.desktop
+
 cd $HOME/scripts/
 
 chmod +x clean.sh upgrade.sh
