@@ -52,4 +52,4 @@ cd $HOME/applications/
 
 rm -rf debs
 
-cd $HOME/posinstall-linuxmint/user01/scripts/
+cd $HOME/xfce-linuxmint/user01/scripts/
