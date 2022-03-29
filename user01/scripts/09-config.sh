@@ -14,15 +14,15 @@ mkdir $HOME/.local/share/Cockatrice/
 
 # All
 
-cp -R $HOME/posinstall-linuxmint/user01/config/home/* "$HOME/"
+cp -R $HOME/xfce-linuxmint/user01/config/home/* "$HOME/"
 
-cp -R $HOME/posinstall-linuxmint/user01/config/home/.config/* "$HOME/.config/"
+cp -R $HOME/xfce-linuxmint/user01/config/home/.config/* "$HOME/.config/"
 
-cp -R $HOME/posinstall-linuxmint/user01/config/home/.local/share/Cockatrice/* "$HOME/.local/share/Cockatrice/"
+cp -R $HOME/xfce-linuxmint/user01/config/home/.local/share/Cockatrice/* "$HOME/.local/share/Cockatrice/"
 
-cp -R $HOME/posinstall-linuxmint/user01/config/home/.local/share/applications/* "$HOME/.local/share/applications/"
+cp -R $HOME/xfce-linuxmint/user01/config/home/.local/share/applications/* "$HOME/.local/share/applications/"
 
-sudo cp -R $HOME/posinstall-linuxmint/user01/config/etc/default/* "/etc/default/"
+sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
 
 # Make AppImage Executable
 
