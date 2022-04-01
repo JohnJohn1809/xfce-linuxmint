@@ -1,7 +1,7 @@
 # Add New Users
 
-sudo useradd -m -g users junior
-sudo useradd -m -g users patricia
+sudo useradd -m users junior
+sudo useradd -m users patricia
 
 # Setting Passworld
 
