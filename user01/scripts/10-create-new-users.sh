@@ -1,7 +1,7 @@
 # Add New Users
 
-sudo useradd -m users junior
-sudo useradd -m users patricia
+sudo useradd -m junior
+sudo useradd -m patricia
 
 # Setting Passworld
 
@@ -23,16 +23,16 @@ sudo mkdir /home/patricia/.local/share/applications/
 
 # User 02
 
-sudo cp -R $HOME/xfce-linuxmint/config/user02/home/* "/home/junior/"
+sudo cp -R $HOME/xfce-linuxmint/user02/config/home/* "/home/junior/"
 
-sudo cp -R $HOME/xfce-linuxmint/config/user02/home/.config/* "/home/junior/.config/"
+sudo cp -R $HOME/xfce-linuxmint/user02/config/home/.config/* "/home/junior/.config/"
 
-sudo cp -R $HOME/xfce-linuxmint/config/user02/home/.local/share/applications/* "/home/junior/.local/share/applications/"
+sudo cp -R $HOME/xfce-linuxmint/user02/config/home/.local/share/applications/* "/home/junior/.local/share/applications/"
 
 # User03
 
-sudo cp -R $HOME/xfce-linuxmint/config/user03/home/* "/home/patricia/"
+sudo cp -R $HOME/xfce-linuxmint/user03/config/home/* "/home/patricia/"
 
-sudo cp -R $HOME/xfce-linuxmint/config/user03/home/.config/* "/home/patricia/.config/"
+sudo cp -R $HOME/xfce-linuxmint/user03/config/home/.config/* "/home/patricia/.config/"
 
-sudo cp -R $HOME/xfce-linuxmint/config/user03/home/.local/share/applications/* "/home/patricia/.local/share/applications/"
+sudo cp -R $HOME/xfce-linuxmint/user03/config/home/.local/share/applications/* "/home/patricia/.local/share/applications/"
