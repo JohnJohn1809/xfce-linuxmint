@@ -22,6 +22,8 @@ cp -R $HOME/xfce-linuxmint/user01/config/home/.local/share/Cockatrice/* "$HOME/.
 
 cp -R $HOME/xfce-linuxmint/user01/config/home/.local/share/applications/* "$HOME/.local/share/applications/"
 
+sudo cp -R $HOME/xfce-linuxmint/user01/config/boot/grub/* "/boot/grub/"
+
 sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
 
 # Make AppImage Executable
@@ -47,3 +49,5 @@ chmod +x 4kstogram.desktop 4kvideodownloader.desktop audacity.desktop clipgrab.d
 cd $HOME/scripts/
 
 chmod +x clean.sh upgrade.sh
+
+sudo update-grub
