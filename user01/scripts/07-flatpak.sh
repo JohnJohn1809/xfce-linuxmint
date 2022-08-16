@@ -29,3 +29,5 @@ flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer
 flatpak install flathub com.rafaelmardojai.Blanket
 
 flatpak install flathub com.github.robertsanseries.ciano
+
+flatpak install flathub io.bassi.Amberol
