@@ -36,15 +36,21 @@ cd $HOME/applications/appimage/clipgrab/
 
 chmod +x clipgrab.appimage
 
-cd $HOME/applications/appimage/keepassxc/
+cd $HOME/applications/appimage/librewolf/
 
-chmod +x keepassxc.appimage
+chmod +x librewolf.appimage
+
+#cd $HOME/applications/appimage/keepassxc/
+
+#chmod +x keepassxc.appimage
 
 # Make Shortcut Executable
 
 cd $HOME/.local/share/applications/
 
-chmod +x 4kstogram.desktop 4kvideodownloader.desktop audacity.desktop clipgrab.desktop keepassxc.desktop
+chmod +x 4kstogram.desktop 4kvideodownloader.desktop audacity.desktop clipgrab.desktop librewolf.desktop
+
+#chmod +x 4kstogram.desktop 4kvideodownloader.desktop audacity.desktop clipgrab.desktop keepassxc.desktop
 
 cd $HOME/scripts/
 
