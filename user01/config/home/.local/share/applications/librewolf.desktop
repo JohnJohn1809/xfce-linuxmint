@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=LibreWolf
+Exec=/home/john/applications/appimage/librewolf/librewolf.appimage
+Icon=librewolf
+Type=Application
+Comment=Browser
+Terminal=false
+Categories=Network;
