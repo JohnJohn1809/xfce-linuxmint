@@ -38,6 +38,8 @@ flatpak install flathub io.github.lainsce.Emulsion
 
 flatpak install flathub io.github.mmstick.FontFinder
 
+flatpak install flathub net.daase.journable
+
 #flatpak install flathub io.github.lainsce.Khronos
 
 #flatpak install flathub com.github.robertsanseries.ciano
