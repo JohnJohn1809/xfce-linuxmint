@@ -1,0 +1,27 @@
+[com/rafaelmardojai/Blanket]
+background-playback=true
+scroll-position=0.0
+volume=1.0
+playing=true
+
+presets=['e52f7134-cff9-463b-9f7d-3740d2cc1d57', 'ce65c387-c1f3-4c3d-a485-d90b6780c7eb', 'a6475306-73f8-485f-aff5-cd94876a4b54', 'fe2f467b-57aa-421b-99af-a9d22f74d4be']
+active-preset='fe2f467b-57aa-421b-99af-a9d22f74d4be'
+
+[com/rafaelmardojai/Blanket/e52f7134-cff9-463b-9f7d-3740d2cc1d57]
+sounds-mute={'rain': false, 'storm': false, 'wind': false, 'waves': false, 'birds': false, 'summer-night': false}
+sounds-volume={'rain': 0.23999999999999999, 'storm': 0.0, 'wind': 0.0, 'waves': 0.0, 'birds': 0.0, 'summer-night': 0.0}
+
+[com/rafaelmardojai/Blanket/ce65c387-c1f3-4c3d-a485-d90b6780c7eb]
+visible-name='Wind-Rain'
+sounds-mute={'rain': false, 'wind': false, 'storm': false}
+sounds-volume={'rain': 0.19, 'wind': 1.0, 'storm': 0.0}
+
+[com/rafaelmardojai/Blanket/a6475306-73f8-485f-aff5-cd94876a4b54]
+visible-name='Rain-Storm'
+sounds-mute={'rain': false, 'wind': false, 'storm': false}
+sounds-volume={'rain': 0.28999999999999998, 'wind': 0.0, 'storm': 0.12}
+
+[com/rafaelmardojai/Blanket/fe2f467b-57aa-421b-99af-a9d22f74d4be]
+visible-name='Rain'
+sounds-mute={'rain': false}
+sounds-volume={'rain': 0.23999999999999999}
