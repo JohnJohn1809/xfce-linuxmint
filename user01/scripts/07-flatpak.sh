@@ -6,7 +6,7 @@ flatpak install flathub org.telegram.desktop
 
 # Text Edit
 
-flatpak install flathub io.typora.Typora
+#flatpak install flathub io.typora.Typora
 
 flatpak install flathub com.simplenote.Simplenote
 
