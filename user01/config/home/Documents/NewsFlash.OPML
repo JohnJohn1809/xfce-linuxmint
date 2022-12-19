@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>NewsFlash OPML export</title>
+  </head>
+  <body>
+    <outline text="Economia" title="Economia">
+      <outline type="rss" xmlUrl="http://g1.globo.com/dynamo/economia/rss2.xml" htmlUrl="https://g1.globo.com/economia/" title="g1 | Economia" text="g1 | Economia" />
+    </outline>
+    <outline text="Educação" title="Educação">
+      <outline title="g1 | Educação" text="g1 | Educação" xmlUrl="http://g1.globo.com/dynamo/educacao/rss2.xml" htmlUrl="https://g1.globo.com/educacao/" type="rss" />
+    </outline>
+    <outline text="Politica" title="Politica">
+      <outline xmlUrl="http://g1.globo.com/dynamo/politica/mensalao/rss2.xml" title="g1| politica" type="rss" text="g1| politica" htmlUrl="http://g1.globo.com/" />
+    </outline>
+    <outline text="Internacional" title="Internacional">
+      <outline text="g1| Internacional" type="rss" title="g1| Internacional" xmlUrl="http://g1.globo.com/dynamo/mundo/rss2.xml" htmlUrl="https://g1.globo.com/mundo/" />
+    </outline>
+    <outline title="Regional" text="Regional">
+      <outline htmlUrl="https://g1.globo.com/al/alagoas/" title="g1 | Alagoas" text="g1 | Alagoas" type="rss" xmlUrl="http://g1.globo.com/dynamo/al/alagoas/rss2.xml" />
+      <outline xmlUrl="https://www.tnh1.com.br/rss/" text="TNH1" htmlUrl="http://www.tnh1.com.br/" type="rss" title="TNH1" />
+    </outline>
+  </body>
+</opml>
