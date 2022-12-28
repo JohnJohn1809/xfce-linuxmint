@@ -44,6 +44,10 @@ sudo dpkg -i ./megasync.deb
 sudo apt install -f -y
 sudo dpkg -i ./megasync.deb
 
+#sudo dpkg -i ./dropbox.deb
+#sudo apt install -f -y
+#sudo dpkg -i ./dropbox.deb
+
 #sudo dpkg -i ./steam.deb
 #sudo apt install -f -y
 #sudo dpkg -i ./steam.deb
