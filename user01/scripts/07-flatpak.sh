@@ -45,3 +45,5 @@ flatpak install flathub com.gitlab.newsflash
 #flatpak install flathub io.github.lainsce.Khronos
 
 #flatpak install flathub com.github.robertsanseries.ciano
+
+flatpak install flathub com.github.rajsolai.textsnatcher
