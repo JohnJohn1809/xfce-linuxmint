@@ -40,6 +40,10 @@ cd $HOME/applications/appimage/librewolf/
 
 chmod +x librewolf.appimage
 
+cd $HOME/applications/appimage/upscayl/
+
+chmod +x upscayl.appimage
+
 #cd $HOME/applications/appimage/keepassxc/
 
 #chmod +x keepassxc.appimage
@@ -48,7 +52,7 @@ chmod +x librewolf.appimage
 
 cd $HOME/.local/share/applications/
 
-chmod +x 4kstogram.desktop 4kvideodownloader.desktop audacity.desktop clipgrab.desktop librewolf.desktop
+chmod +x audacity.desktop librewolf.desktop upscayl.desktop
 
 #chmod +x 4kstogram.desktop 4kvideodownloader.desktop audacity.desktop clipgrab.desktop keepassxc.desktop
 
