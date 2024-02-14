@@ -3,9 +3,9 @@
 # Make Folders
 
 mkdir $HOME/Downloads/Mega
-mkdir $HOME/Downloads/ClipGrab
-mkdir $HOME/Downloads/4kstogram
-mkdir $HOME/Downloads/4kvideodownloader
+#mkdir $HOME/Downloads/ClipGrab
+#mkdir $HOME/Downloads/4kstogram
+#mkdir $HOME/Downloads/4kvideodownloader
 mkdir $HOME/Downloads/Warpinator
 mkdir $HOME/Downloads/Telegram
 mkdir $HOME/Downloads/Random
@@ -32,17 +32,17 @@ cd $HOME/applications/appimage/audacity/
 
 chmod +x audacity.appimage
 
-cd $HOME/applications/appimage/clipgrab/
+#cd $HOME/applications/appimage/clipgrab/
 
-chmod +x clipgrab.appimage
+#chmod +x clipgrab.appimage
 
 cd $HOME/applications/appimage/librewolf/
 
 chmod +x librewolf.appimage
 
-cd $HOME/applications/appimage/upscayl/
+#cd $HOME/applications/appimage/upscayl/
 
-chmod +x upscayl.appimage
+#chmod +x upscayl.appimage
 
 #cd $HOME/applications/appimage/keepassxc/
 
@@ -52,7 +52,9 @@ chmod +x upscayl.appimage
 
 cd $HOME/.local/share/applications/
 
-chmod +x audacity.desktop librewolf.desktop upscayl.desktop
+chmod +x audacity.desktop librewolf.desktop
+
+#chmod +x audacity.desktop librewolf.desktop upscayl.desktop
 
 #chmod +x 4kstogram.desktop 4kvideodownloader.desktop audacity.desktop clipgrab.desktop keepassxc.desktop
 
