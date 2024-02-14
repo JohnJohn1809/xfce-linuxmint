@@ -9,3 +9,7 @@
 #sudo apt update
 
 #sudo apt install brave-browser -y
+
+# Chromium
+
+sudo apt install chromium -y
