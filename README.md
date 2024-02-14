@@ -23,5 +23,5 @@ Caso você esteja com um boot lento veja esse video:
 ### Contato
 Caso tenha dúvidas sobre algo ou sugestões para melhorar meu repositório.
 
-- Discord: JohnJohn1809#4864
+- Discord: johnjohn1809
 - Telegram: @JohnJohn1809
