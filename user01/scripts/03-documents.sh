@@ -8,6 +8,8 @@ sudo apt install geany -y
 
 sudo apt install pdfarranger -y
 
+sudo apt install okular -y
+
 # MS Fonts
 
 sudo apt install ttf-mscorefonts-installer -y
