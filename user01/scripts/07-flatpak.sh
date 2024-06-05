@@ -14,9 +14,13 @@ flatpak install flathub org.gnome.gitlab.somas.Apostrophe
 
 #flatpak install org.gnome.gitlab.somas.Apostrophe.Plugin.TexLive
 
-flatpak install flathub com.github.johnfactotum.Foliate
+#flatpak install flathub com.github.johnfactotum.Foliate
 
 flatpak install flathub rocks.koreader.KOReader
+
+flatpak install flathub com.github.muriloventuroso.pdftricks
+
+flatpak install flathub fr.romainvigier.MetadataCleaner
 
 # Multmidia
 
@@ -32,7 +36,7 @@ flatpak install flathub com.valvesoftware.Steam
 
 # Other
 
-flatpak install flathub net.ankiweb.Anki
+#flatpak install flathub net.ankiweb.Anki
 
 #flatpak install flathub com.github.gi_lom.dialect
 
