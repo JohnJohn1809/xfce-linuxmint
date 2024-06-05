@@ -36,9 +36,9 @@ cd $HOME/applications/debs/
 #sudo apt install -f -y
 #sudo dpkg -i ./cockatrice.deb
 
-sudo dpkg -i ./discord.deb
-sudo apt install -f -y
-sudo dpkg -i ./discord.deb
+#sudo dpkg -i ./discord.deb
+#sudo apt install -f -y
+#sudo dpkg -i ./discord.deb
 
 sudo dpkg -i ./megasync.deb
 sudo apt install -f -y
