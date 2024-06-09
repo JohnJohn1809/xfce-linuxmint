@@ -1,5 +1,17 @@
 #!/bin/sh
 
+# Remove Pré Install for Mint Apps
+
+sudo apt remove celluloid -y
+sudo apt remove thingy -y
+sudo apt remove xfce4-dict -y
+sudo apt remove hypnotix -y
+sudo apt remove hexchat -y
+sudo apt remove kde-connect -y
+sudo apt remove kdeconnect-kde -y
+sudo apt remove kdeconnect -y
+sudo apt remove thunderbird -y
+
 # Make Folders
 
 mkdir $HOME/Downloads/Mega
