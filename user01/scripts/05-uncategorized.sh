@@ -8,7 +8,7 @@ sudo apt install gparted -y
 sudo apt install easytag -y
 sudo apt install android-tools-adb android-tools-fastboot -y
 sudo apt install minder -y
-#sudo apt install color-picker -y
+sudo apt install color-picker -y
 #sudo apt install grub-customizer -y
 #sudo apt install simplescreenrecorder -y
 #sudo apt install simplescreenrecorder-lib:i386
