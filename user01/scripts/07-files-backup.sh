@@ -21,8 +21,6 @@ mkdir $HOME/Downloads/Random
 
 mkdir $HOME/.local/share/Cockatrice/
 
-mkdir $HOME/applications/
-
 # Dropbox Download Files
 
 cd $HOME
