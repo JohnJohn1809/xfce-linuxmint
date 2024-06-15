@@ -79,8 +79,6 @@ cp -R $HOME/xfce-linuxmint/user01/config/home/* "$HOME/"
 
 cp -R $HOME/xfce-linuxmint/user01/config/home/.config/* "$HOME/.config/"
 
-cp -R $HOME/xfce-linuxmint/user01/config/home/.local/share/applications/* "$HOME/.local/share/applications/"
-
 sudo cp -R $HOME/xfce-linuxmint/user01/config/boot/grub/* "/boot/grub/"
 
 sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
