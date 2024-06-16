@@ -91,11 +91,16 @@ cd $HOME/applications/appimage/librewolf/
 
 chmod +x librewolf.appimage
 
+
+cd $HOME/applications/appimage/obsidian/
+
+chmod +x obsidian.appimage
+
 # Make Shortcut Executable
 
 cd $HOME/.local/share/applications/
 
-chmod +x audacity.desktop librewolf.desktop
+chmod +x audacity.desktop librewolf.desktop obsidian.desktop
 
 # Make Scripts Executable
 
