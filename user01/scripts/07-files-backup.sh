@@ -83,16 +83,16 @@ sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
 
 # Zram Files
 
-sudo mkdir /etc/
-sudo mkdir $HOME/Downloads/Random
-sudo mkdir $HOME/Downloads/Random
-sudo mkdir $HOME/Downloads/Random
+sudo mkdir /etc/modules-load.d/
+sudo mkdir /etc/modprobe.d/
+sudo mkdir /etc/udev/rules.d/
 
-sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
-sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
-sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
-sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
+sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/modules-load.d/* "/etc/modules-load.d/"
+sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/modprobe.d/* "/etc/modprobe.d/"
+sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/udev/rules.d/* "/etc/udev/rules.d/"
+sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/systemd/system/* "/etc/systemd/system/"
 
+sudo systemctl enable zram
 
 # Make AppImage Executable
 
