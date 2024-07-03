@@ -81,6 +81,19 @@ sudo cp -R $HOME/xfce-linuxmint/user01/config/boot/grub/* "/boot/grub/"
 
 sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
 
+# Zram Files
+
+sudo mkdir /etc/
+sudo mkdir $HOME/Downloads/Random
+sudo mkdir $HOME/Downloads/Random
+sudo mkdir $HOME/Downloads/Random
+
+sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
+sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
+sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
+sudo cp -R $HOME/xfce-linuxmint/user01/config/etc/default/* "/etc/default/"
+
+
 # Make AppImage Executable
 
 cd $HOME/applications/appimage/audacity/
