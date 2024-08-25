@@ -19,7 +19,7 @@ mkdir $HOME/Downloads/Warpinator
 mkdir $HOME/Downloads/Telegram
 mkdir $HOME/Downloads/Random
 
-mkdir $HOME/.local/share/Cockatrice/
+#mkdir $HOME/.local/share/Cockatrice/
 
 # Dropbox Download Files
 
@@ -65,11 +65,11 @@ sudo apt install papirus-folders -y
 
 # Cockatrice
 
-cp -R $HOME/cockatrice/* "$HOME/.var/app/io.github.Cockatrice.cockatrice/data/Cockatrice/Cockatrice/"
+#cp -R $HOME/cockatrice/* "$HOME/.var/app/io.github.Cockatrice.cockatrice/data/Cockatrice/Cockatrice/"
 
-cd $HOME
+#cd $HOME
 
-rm -rf cockatrice
+#rm -rf cockatrice
 
 # Moving Files Config
 
