@@ -12,6 +12,8 @@ flatpak install flathub org.telegram.desktop
 
 flatpak install flathub org.gnome.gitlab.somas.Apostrophe
 
+#flatpak install flathub com.toolstack.Folio
+
 #flatpak install org.gnome.gitlab.somas.Apostrophe.Plugin.TexLive
 
 #flatpak install flathub com.github.johnfactotum.Foliate
