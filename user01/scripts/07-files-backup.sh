@@ -104,16 +104,21 @@ cd $HOME/applications/appimage/librewolf/
 
 chmod +x librewolf.appimage
 
+cd $HOME/applications/appimage/zen-browser/
 
-cd $HOME/applications/appimage/obsidian/
+chmod +x zen-browser.appimage
 
-chmod +x obsidian.appimage
+#cd $HOME/applications/appimage/obsidian/
+
+#chmod +x obsidian.appimage
 
 # Make Shortcut Executable
 
 cd $HOME/.local/share/applications/
 
-chmod +x audacity.desktop librewolf.desktop obsidian.desktop
+#chmod +x audacity.desktop librewolf.desktop obsidian.desktop zen-browser.desktop
+
+chmod +x audacity.desktop librewolf.desktop zen-browser.desktop
 
 # Make Scripts Executable
 
