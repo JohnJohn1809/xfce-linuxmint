@@ -4,6 +4,8 @@
 
 flatpak install flathub org.telegram.desktop
 
+flatpak install flathub us.zoom.Zoom
+
 # Text Edit
 
 #flatpak install flathub io.typora.Typora
@@ -24,6 +26,16 @@ flatpak install flathub com.github.muriloventuroso.pdftricks
 
 flatpak install flathub fr.romainvigier.MetadataCleaner
 
+flatpak install flathub garden.jamie.Morphosis
+
+flatpak install flathub com.github.tenderowl.frog
+
+flatpak install flathub io.github.finefindus.Hieroglyphic
+
+flatpak install flathub org.gnome.design.Lorem
+
+flatpak install flathub io.gitlab.gregorni.Letterpress
+
 # Multmidia
 
 #flatpak install flathub io.bassi.Amberol
@@ -34,7 +46,7 @@ flatpak install flathub com.obsproject.Studio
 
 flatpak install flathub com.usebottles.bottles
 
-flatpak install flathub com.valvesoftware.Steam
+#flatpak install flathub com.valvesoftware.Steam
 
 # Other
 
@@ -69,3 +81,5 @@ flatpak install flathub org.gabmus.whatip
 flatpak install flathub com.github.tchx84.Flatseal
 
 flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer
+
+flatpak install flathub io.github.vikdevelop.SaveDesktop
