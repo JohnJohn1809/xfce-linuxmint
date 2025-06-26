@@ -5,6 +5,6 @@ powerprofilesctl set performance
 ping 8.8.8.8
 neofetch
 free -h
+uptime
 ./upgrade.sh
 ./clean.sh
-uptime
