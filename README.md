@@ -19,9 +19,3 @@ Caso você esteja com um boot lento veja esse video:
 - [cp man](https://www.man7.org/linux/man-pages/man1/cp.1.html)
 
 - [cd man](https://www.man7.org/linux/man-pages/man1/cd.1p.html)
-
-### Contato
-Caso tenha dúvidas sobre algo ou sugestões para melhorar meu repositório.
-
-- Discord: johnjohn1809
-- Telegram: @JohnJohn1809
