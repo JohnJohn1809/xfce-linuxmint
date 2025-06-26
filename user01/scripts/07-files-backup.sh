@@ -14,9 +14,9 @@ sudo apt remove thunderbird -y
 
 # Make Folders
 
-mkdir $HOME/Downloads/Mega
+#mkdir $HOME/Downloads/Mega
 mkdir $HOME/Downloads/Warpinator
-mkdir $HOME/Downloads/Telegram
+#mkdir $HOME/Downloads/Telegram
 mkdir $HOME/Downloads/Random
 
 #mkdir $HOME/.local/share/Cockatrice/
@@ -37,15 +37,15 @@ rm files.zip
 
 # Install Debs
 
-cd $HOME/applications/debs/
+#cd $HOME/applications/debs/
 
-sudo dpkg -i ./megasync.deb
-sudo apt install -f -y
-sudo dpkg -i ./megasync.deb
+#sudo dpkg -i ./megasync.deb
+#sudo apt install -f -y
+#sudo dpkg -i ./megasync.deb
 
-cd $HOME/applications/ 
+#cd $HOME/applications/ 
 
-rm -rf debs
+#rm -rf debs
 
 # Moving Themes
 
@@ -96,9 +96,13 @@ sudo systemctl enable zram
 
 # Make AppImage Executable
 
-cd $HOME/applications/appimage/audacity/
+#cd $HOME/applications/appimage/audacity/
 
-chmod +x audacity.appimage
+#chmod +x audacity.appimage
+
+cd $HOME/applications/appimage/upscayl/
+
+chmod +x upscayl.appimage
 
 cd $HOME/applications/appimage/librewolf/
 
@@ -118,7 +122,9 @@ cd $HOME/.local/share/applications/
 
 #chmod +x audacity.desktop librewolf.desktop obsidian.desktop zen-browser.desktop
 
-chmod +x audacity.desktop librewolf.desktop zen-browser.desktop
+#chmod +x audacity.desktop librewolf.desktop zen-browser.desktop
+
+chmod +x upscayl.desktop librewolf.desktop zen-browser.desktop
 
 # Make Scripts Executable
 
