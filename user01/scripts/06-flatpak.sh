@@ -2,9 +2,9 @@
 
 # Social
 
-flatpak install flathub org.telegram.desktop
+#flatpak install flathub org.telegram.desktop
 
-flatpak install flathub us.zoom.Zoom
+#flatpak install flathub us.zoom.Zoom
 
 # Text Edit
 
@@ -20,21 +20,21 @@ flatpak install flathub org.gnome.gitlab.somas.Apostrophe
 
 #flatpak install flathub com.github.johnfactotum.Foliate
 
-flatpak install flathub rocks.koreader.KOReader
+#flatpak install flathub rocks.koreader.KOReader
 
 flatpak install flathub com.github.muriloventuroso.pdftricks
 
 flatpak install flathub fr.romainvigier.MetadataCleaner
 
-flatpak install flathub garden.jamie.Morphosis
+#flatpak install flathub garden.jamie.Morphosis
 
-flatpak install flathub com.github.tenderowl.frog
+#flatpak install flathub com.github.tenderowl.frog
 
-flatpak install flathub io.github.finefindus.Hieroglyphic
+#flatpak install flathub io.github.finefindus.Hieroglyphic
 
-flatpak install flathub org.gnome.design.Lorem
+#flatpak install flathub org.gnome.design.Lorem
 
-flatpak install flathub io.gitlab.gregorni.Letterpress
+#flatpak install flathub io.gitlab.gregorni.Letterpress
 
 # Multmidia
 
