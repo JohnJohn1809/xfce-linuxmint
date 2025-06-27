@@ -6,7 +6,7 @@ wget -c -O xfce-linuxmint.zip 'https://www.dropbox.com/scl/fo/bweqwwsrncuflfebbh
 
 # Unzip
 
-unzip xfce-linuxmint.zip -d $HOME
+unzip xfce-linuxmint.zip -d $HOME/xfce-linuxmint
 
 rm xfce-linuxmint.zip
 
