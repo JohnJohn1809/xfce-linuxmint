@@ -25,11 +25,11 @@ mkdir $HOME/Downloads/Random
 
 cd $HOME
 
-wget -c 'https://www.dropbox.com/scl/fo/bweqwwsrncuflfebbhn59/AOIpHds-XQ74_aT-jnci5tE?rlkey=tfdi8cckq0i30wbz9phw0m6iq&st=plepio0m&dl=0'
+wget -c 'https://www.dropbox.com/scl/fo/bweqwwsrncuflfebbhn59/AOIpHds-XQ74_aT-jnci5tE?rlkey=nvjdju8n9pfdjoi7q8aua7yse&st=ugvy2ea9&dl=0'
 
 # Rename and Unzip
 
-mv AOIpHds-XQ74_aT-jnci5tE?rlkey=tfdi8cckq0i30wbz9phw0m6iq&st=plepio0m&dl=0 xfce-linuxmint.zip
+mv AOIpHds-XQ74_aT-jnci5tE?rlkey=nvjdju8n9pfdjoi7q8aua7yse&st=ugvy2ea9&dl=0 xfce-linuxmint.zip
 
 unzip xfce-linuxmint.zip -d $HOME
 
