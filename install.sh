@@ -1,33 +1,12 @@
-#!/usr/bin/env bash
-
-# Remove Pré Install for Mint Apps
-
-sudo apt remove celluloid -y
-sudo apt remove thingy -y
-sudo apt remove xfce4-dict -y
-sudo apt remove hypnotix -y
-sudo apt remove hexchat -y
-sudo apt remove kde-connect -y
-sudo apt remove kdeconnect-kde -y
-sudo apt remove kdeconnect -y
-sudo apt remove thunderbird -y
-
-# Make Folders
-
-#mkdir $HOME/Downloads/Mega
-mkdir $HOME/Downloads/Warpinator
-#mkdir $HOME/Downloads/Telegram
-mkdir $HOME/Downloads/Random
-
-#mkdir $HOME/.local/share/Cockatrice/
-
 # Dropbox Download Files
 
 cd $HOME
 
 wget -c -O xfce-linuxmint.zip 'https://www.dropbox.com/scl/fo/bweqwwsrncuflfebbhn59/AOIpHds-XQ74_aT-jnci5tE?rlkey=nvjdju8n9pfdjoi7q8aua7yse&st=ugvy2ea9&dl=0'
 
-unzip xfce-linuxmint.zip -d $HOME/xfce-linuxmint
+# Unzip
+
+unzip xfce-linuxmint.zip -d $HOME
 
 rm xfce-linuxmint.zip
 
