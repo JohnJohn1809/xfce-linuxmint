@@ -29,15 +29,15 @@ wget -c 'https://www.dropbox.com/scl/fo/bweqwwsrncuflfebbhn59/AOIpHds-XQ74_aT-jn
 
 # Rename and Unzip
 
-mv AOIpHds-XQ74_aT-jnci5tE?rlkey=tfdi8cckq0i30wbz9phw0m6iq&st=plepio0m&dl=0 files.zip
+mv AOIpHds-XQ74_aT-jnci5tE?rlkey=tfdi8cckq0i30wbz9phw0m6iq&st=plepio0m&dl=0 xfce-linuxmint.zip
 
-unzip files.zip -d $HOME
+unzip xfce-linuxmint.zip -d $HOME
 
-rm files.zip
+rm xfce-linuxmint.zip
 
 # Set Scripts Executables
 
-cd $HOME/files/scripts
+cd $HOME/xfce-linuxmint/scripts
 
 chmod +x 01-depedences.sh 02-midia.sh 03-documents.sh 04-web-browser.sh 05-uncategorized.sh 06-flatpak.sh 07-files-backup.sh 08-create-new-users.sh
 
@@ -51,6 +51,3 @@ chmod +x 01-depedences.sh 02-midia.sh 03-documents.sh 04-web-browser.sh 05-uncat
 ./06-flatpak.sh
 ./07-files-backup.sh
 ./08-create-new-users.sh
-
-
-
