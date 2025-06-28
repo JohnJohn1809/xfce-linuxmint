@@ -2,6 +2,14 @@
 
 Esses scripts são para facilitar meu pós instalação do mint com interface gráfica xfce. Ele foi baseado no meu [repositório do debian com i3wm](https://github.com/JohnJohn1809/i3wm-debian), que foi baseado nos tutoriais do [Blau Araujo](https://gitlab.com/blau_araujo).
 
+### Screenshots
+
+![Logo](screenshots/screenshot-01.png)
+
+![Logo](screenshots/screenshot-02.png)
+
+![Logo](screenshots/screenshot-03.png)
+
 ### Vídeos e Links Úteis que Me Ajudaram
 
 #### Slow Boot
